@@ -1,0 +1,13 @@
+0.6
+2019.1
+May 24 2019
+14:51:52
+/home/it/project_Lab/project_Lab.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+/home/it/project_Lab/project_Lab.srcs/sim_1/new/tb_Half_Adder.sv,1731407812,systemVerilog,,,,tb_Half_Adder,,,,,,,,
+/home/it/project_Lab/project_Lab.srcs/sim_1/new/tb_adder4bit.sv,1731424409,systemVerilog,,,,tb_adder4bit,,,,,,,,
+/home/it/project_Lab/project_Lab.srcs/sim_1/new/tb_and4gate.sv,1731406057,systemVerilog,,,,tb_and4gate,,,,,,,,
+/home/it/project_Lab/project_Lab.srcs/sim_1/new/tb_full_Adder.sv,1731408419,systemVerilog,,,,tb_full_Adder,,,,,,,,
+/home/it/project_Lab/project_Lab.srcs/sources_1/new/Half_Adder.sv,1731407452,systemVerilog,,/home/it/project_Lab/project_Lab.srcs/sources_1/new/adder4bit.sv,,Half_Adder,,,,,,,,
+/home/it/project_Lab/project_Lab.srcs/sources_1/new/adder4bit.sv,1731423768,systemVerilog,,/home/it/project_Lab/project_Lab.srcs/sources_1/new/full_Adder.sv,,adder4bit,,,,,,,,
+/home/it/project_Lab/project_Lab.srcs/sources_1/new/and4gate.sv,1731406370,systemVerilog,,/home/it/project_Lab/project_Lab.srcs/sim_1/new/tb_and4gate.sv,,and4gate,,,,,,,,
+/home/it/project_Lab/project_Lab.srcs/sources_1/new/full_Adder.sv,1731417578,systemVerilog,,/home/it/project_Lab/project_Lab.srcs/sim_1/new/tb_adder4bit.sv,,full_Adder,,,,,,,,
